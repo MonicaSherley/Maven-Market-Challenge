@@ -12,3 +12,4 @@ Step 5 : Building the Report
 
 Step 6 : Publish Report
 
+![Maven Market](https://github.com/MonicaSherley/Maven-Market-Challenge/assets/108649555/860d5997-0177-49c5-a63b-82caf5107759)
