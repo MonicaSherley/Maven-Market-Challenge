@@ -11,6 +11,7 @@ The Maven marketing challenge presents several key observations regarding the cu
 5. **Campaign Success**: Most customers tend to accept offers in the latest campaign, whereas the second campaign appears to be the least successful. Notably, customers with incomes ranging from $50,000 to $100,000 exhibit substantial impact across all campaigns.
 
 6. **Purchase Trends**: The average number of days since the customer's last purchase is notably higher in 2012 but gradually decreases by 2014. Additionally, the number of complaints peaks in 2013 but subsequently decreases by 2014, indicating improvements in customer satisfaction and service quality over time.
+
 Creating a dashboard followed steps as below:
 
 Step 1 : Extract & Transform the data
